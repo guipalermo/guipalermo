@@ -11,7 +11,7 @@ This subscription club had many integrations with external services such as paym
 
 In 2015, I started a postgraduate course in mobile development, focusing on Games and IoT. I learned some tools and frameworks in Java and how to use some electrical components with Arduino.
 
-At this point, I'm technical leader in the same subscription club. In recent years I have learned about AWS tools, new web languages ​​and some design patterns. We are building a new subscription club plattform using microservices (backend in Laravel and frontend in React Native). 
+At this point, I'm technical leader in the same subscription club. In recent years I have learned about AWS tools, new web languages ​​and some design patterns. We are building a new subscription club plattform using microservices (Laravel to backend and React Native/Vue.js to frontend). 
 </p>
 
 <p align="left">
