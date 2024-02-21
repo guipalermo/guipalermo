@@ -21,3 +21,7 @@ At this point, I'm technical leader in the same subscription club. In recent yea
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guipalermo/" /></a>
 </p>  
+
+Professional profile (private):
+
+![Captura de Tela 2024-02-21 às 14 47 53](https://github.com/guipalermo/guipalermo/assets/23324623/1da41982-328f-4557-8e3a-01d68982d324)
